@@ -64,7 +64,7 @@ img {
 /* Header */
 .header {
   background-image: url(../img/banner.jpg);
-  height: 80rem;
+  height: 60rem;
   background-size: cover;
   background-repeat: no-repeat;
   /* Posicionamos que parte de la imagen queremos que se vea cuando reducimos la pantalla */
@@ -154,7 +154,7 @@ img {
 .boton--primario {
   background-color: var(--negro);
 }
-/* Adide */
+/* Aside */
 
 .boton--secundario {
   background-color: var(--primario);
